@@ -1,0 +1,150 @@
+apiVersion: v1
+entries:
+  ack-apigatewayv2-controller:
+  - apiVersion: v1
+    appVersion: v0.0.1
+    created: "2020-11-12T16:10:50.518805016-05:00"
+    description: A Helm chart for the ACK service controller for apigatewayv2
+    digest: f2928da5ecb4cbfd0be97641e7a1d936c82d1a4ad5a32bb2a8603e76a1c0d40f
+    home: https://github.com/aws/aws-controllers-k8s
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - aws
+    - kubernetes
+    - apigatewayv2
+    maintainers:
+    - name: ACK Admins
+      url: https://github.com/orgs/aws/teams/aws-controllers-for-kubernetes-ack-admins
+    name: ack-apigatewayv2-controller
+    sources:
+    - https://github.com/aws/aws-controllers-k8s
+    urls:
+    - https://aws.github.io/aws-controllers-k8s/charts/ack-apigatewayv2-controller-v0.0.1.tgz
+    version: v0.0.1
+  ack-dynamodb-controller:
+  - apiVersion: v1
+    appVersion: v0.0.1
+    created: "2020-11-12T16:10:50.51927127-05:00"
+    description: A Helm chart for the ACK service controller for dynamodb
+    digest: df64549da5124d89a8aa5ba61b7fe4aa97d605765fc1a1add0ebf9d7d888e853
+    home: https://github.com/aws/aws-controllers-k8s
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - aws
+    - kubernetes
+    - dynamodb
+    maintainers:
+    - name: ACK Admins
+      url: https://github.com/orgs/aws/teams/aws-controllers-for-kubernetes-ack-admins
+    name: ack-dynamodb-controller
+    sources:
+    - https://github.com/aws/aws-controllers-k8s
+    urls:
+    - https://aws.github.io/aws-controllers-k8s/charts/ack-dynamodb-controller-v0.0.1.tgz
+    version: v0.0.1
+  ack-ecr-controller:
+  - apiVersion: v1
+    appVersion: v0.0.1
+    created: "2020-11-12T16:10:50.520389088-05:00"
+    description: A Helm chart for the ACK service controller for ecr
+    digest: d372367aa4aec61e5e9acb5b16c69ebe6acba99009f10942cde1f5b832622e23
+    home: https://github.com/aws/aws-controllers-k8s
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - aws
+    - kubernetes
+    - ecr
+    maintainers:
+    - name: ACK Admins
+      url: https://github.com/orgs/aws/teams/aws-controllers-for-kubernetes-ack-admins
+    name: ack-ecr-controller
+    sources:
+    - https://github.com/aws/aws-controllers-k8s
+    urls:
+    - https://aws.github.io/aws-controllers-k8s/charts/ack-ecr-controller-v0.0.1.tgz
+    version: v0.0.1
+  ack-elasticache-controller:
+  - apiVersion: v1
+    appVersion: v0.0.1
+    created: "2020-11-12T16:10:50.521315173-05:00"
+    description: A Helm chart for the ACK service controller for elasticache
+    digest: bc48f4fecca7443d4e698462d44d283aeb3819d9c2371ca11287f11607b282bf
+    home: https://github.com/aws/aws-controllers-k8s
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - aws
+    - kubernetes
+    - elasticache
+    maintainers:
+    - name: ACK Admins
+      url: https://github.com/orgs/aws/teams/aws-controllers-for-kubernetes-ack-admins
+    name: ack-elasticache-controller
+    sources:
+    - https://github.com/aws/aws-controllers-k8s
+    urls:
+    - https://aws.github.io/aws-controllers-k8s/charts/ack-elasticache-controller-v0.0.1.tgz
+    version: v0.0.1
+  ack-s3-controller:
+  - apiVersion: v1
+    appVersion: v0.0.1
+    created: "2020-11-12T16:10:50.522019488-05:00"
+    description: A Helm chart for the ACK service controller for s3
+    digest: ce1d3272a361cccd5c8ed28baff392bb20d6a29a995999bc9dba6fb6f3db94a8
+    home: https://github.com/aws/aws-controllers-k8s
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - aws
+    - kubernetes
+    - s3
+    maintainers:
+    - name: ACK Admins
+      url: https://github.com/orgs/aws/teams/aws-controllers-for-kubernetes-ack-admins
+    name: ack-s3-controller
+    sources:
+    - https://github.com/aws/aws-controllers-k8s
+    urls:
+    - https://aws.github.io/aws-controllers-k8s/charts/ack-s3-controller-v0.0.1.tgz
+    version: v0.0.1
+  ack-sfn-controller:
+  - apiVersion: v1
+    appVersion: v0.0.1
+    created: "2020-11-12T16:10:50.522713002-05:00"
+    description: A Helm chart for the ACK service controller for sfn
+    digest: cb10242a26b1dadbdbcd7d92e7aac8905a9dd5aff9df2d92b609affa80041fb0
+    home: https://github.com/aws/aws-controllers-k8s
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - aws
+    - kubernetes
+    - sfn
+    maintainers:
+    - name: ACK Admins
+      url: https://github.com/orgs/aws/teams/aws-controllers-for-kubernetes-ack-admins
+    name: ack-sfn-controller
+    sources:
+    - https://github.com/aws/aws-controllers-k8s
+    urls:
+    - https://aws.github.io/aws-controllers-k8s/charts/ack-sfn-controller-v0.0.1.tgz
+    version: v0.0.1
+  ack-sns-controller:
+  - apiVersion: v1
+    appVersion: v0.0.1
+    created: "2020-11-12T16:10:50.523452644-05:00"
+    description: A Helm chart for the ACK service controller for sns
+    digest: f0369ccb61114c50a7df611c7435937e16f8ebd720e5f2850f282ea39391aeeb
+    home: https://github.com/aws/aws-controllers-k8s
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - aws
+    - kubernetes
+    - sns
+    maintainers:
+    - name: ACK Admins
+      url: https://github.com/orgs/aws/teams/aws-controllers-for-kubernetes-ack-admins
+    name: ack-sns-controller
+    sources:
+    - https://github.com/aws/aws-controllers-k8s
+    urls:
+    - https://aws.github.io/aws-controllers-k8s/charts/ack-sns-controller-v0.0.1.tgz
+    version: v0.0.1
+generated: "2020-11-12T16:10:50.518007174-05:00"
